@@ -59,6 +59,10 @@ Full Stack Developer passionate about building scalable web applications. I have
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj81040&layout=compact&theme=radical" height="180" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/raj81040/raj81040/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 ---
 
 ## 🧑‍💻 Work Experience

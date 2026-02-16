@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Raj Tiwari Banner" width="100%">
+  <img src="githubbanner.png" alt="Raj Tiwari Banner" width="100%">
   <br />
   <h1>Hi there, I'm Raj Tiwari! 👋</h1>
   <h3>Full Stack MERN Developer | React | Node.js | MongoDB</h3>

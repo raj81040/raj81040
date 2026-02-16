@@ -55,8 +55,9 @@ Full Stack Developer passionate about building scalable web applications. I have
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raj81040&show_icons=true&theme=radical" height="180" alt="Raj's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj81040&layout=compact&theme=radical" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=raj81040&show_icons=true&theme=radical&rank_icon=github" height="180" alt="Raj Stats" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raj81040&layout=compact&theme=radical" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -87,7 +88,7 @@ Full Stack Developer passionate about building scalable web applications. I have
 
 ## 💡 Top Projects
 
-### 🔹 [CodeShare Pro](LINK_TO_REPO_HERE) (Real-Time Editor)
+### 🔹 [Anyshare Pro](LINK_TO_REPO_HERE) (Real-Time Editor)
 **Tech:** React, Node.js, Socket.io, MongoDB
 *A collaborative code editor allowing multiple users to write and execute code simultaneously.*
 - ⚡ Implemented **WebSockets (Socket.io)** for sub-100ms real-time typing synchronization.

@@ -88,14 +88,14 @@ Full Stack Developer passionate about building scalable web applications. I have
 
 ## 💡 Top Projects
 
-### 🔹 [Anyshare Pro](LINK_TO_REPO_HERE) (Real-Time Editor)
+### 🔹 [Anyshare Pro](https://github.com/raj81040/anyshare) (Real-Time Editor)
 **Tech:** React, Node.js, Socket.io, MongoDB
 *A collaborative code editor allowing multiple users to write and execute code simultaneously.*
 - ⚡ Implemented **WebSockets (Socket.io)** for sub-100ms real-time typing synchronization.
 - 🔒 Built a secure code execution sandbox for JavaScript & Python.
 - 📂 **Architecture:** Scalable room-based logic planned for Redis scaling.
 
-### 🔹 [Hotel Management App](LINK_TO_REPO_HERE)
+### 🔹 [Hotel Management App](https://github.com/raj81040/HospitalManagment)
 **Tech:** React.js, Next.js, Node.js
 *A hotel discovery platform featuring advanced filtering and booking logic.*
 - 🎨 Designed a reusable component library, reducing frontend development time by 30%.

@@ -113,5 +113,5 @@ Full Stack Developer passionate about building scalable web applications. I have
 ---
 
 <div align="center">
-  <p>👇 check out my repositories!</p>
+  <p>👇 check out my repositories! </p>
 </div>
